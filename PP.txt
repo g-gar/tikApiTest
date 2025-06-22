@@ -1,0 +1,51 @@
+Política de Privacidad
+
+Última actualización: [Fecha]
+
+[Nombre de tu Aplicación/Empresa] ("nosotros", "nuestro") opera la aplicación [Nombre de tu Aplicación] (en adelante, "el Servicio"). Esta página le informa de nuestras políticas relativas a la recopilación, uso y divulgación de datos personales cuando utiliza nuestro Servicio.
+
+No utilizamos ni compartimos su información con nadie, excepto como se describe en esta Política de Privacidad.
+
+Al utilizar el Servicio, usted acepta la recopilación y el uso de información de acuerdo con esta política.
+
+**1. Información que Recopilamos**
+
+Nuestro Servicio está diseñado para ser un cliente que interactúa con la API de TikTok. Como tal, no recopilamos ni almacenamos ninguna Información de Identificación Personal (PII) sobre usted en nuestros servidores.
+
+a) Datos de la API de TikTok:
+Cuando usted busca un perfil de usuario a través de nuestro Servicio, nosotros realizamos una solicitud a la API pública de TikTok. La información del perfil (como nombre de usuario, número de seguidores, etc.) se obtiene de TikTok y se le muestra directamente. Esta información no se almacena permanentemente en nuestros sistemas; simplemente pasa a través de nuestro backend para ser entregada a la aplicación cliente.
+
+b) Datos de Uso (Log Data):
+Podemos recopilar información anónima que su aplicación envía cada vez que interactúa con nuestro backend ("Log Data"). Estos datos pueden incluir información como la dirección del Protocolo de Internet ("IP") de su dispositivo (de forma anonimizada), las solicitudes realizadas, la hora y fecha de su solicitud y otras estadísticas. Estos datos se utilizan únicamente para fines de monitoreo, seguridad y mejora del rendimiento del Servicio y no se vinculan a su identidad personal.
+
+**2. Uso de los Datos**
+
+Utilizamos la información recopilada para:
+- Proveer y mantener nuestro Servicio.
+- Monitorear el uso de nuestro Servicio para detectar, prevenir y abordar problemas técnicos.
+
+**3. Terceros y Transferencia de Datos**
+
+Su interacción con los perfiles de TikTok a través de nuestro Servicio está sujeta a la Política de Privacidad de TikTok Inc. Le recomendamos encarecidamente que revise la Política de Privacidad de TikTok.
+
+No vendemos, comerciamos ni transferimos de ninguna otra manera su información personal a terceros.
+
+**4. Seguridad de los Datos**
+
+La seguridad de sus datos es importante para nosotros, pero recuerde que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro. Si bien nos esforzamos por utilizar medios comercialmente aceptables para proteger cualquier dato que pase por nuestros sistemas, no podemos garantizar su seguridad absoluta.
+
+**5. Privacidad de los Niños**
+
+Nuestro Servicio no se dirige a ninguna persona menor de 13 años ("Niños").
+
+No recopilamos conscientemente información de identificación personal de niños menores de 13 años. Si usted es un padre o tutor y sabe que su hijo nos ha proporcionado información personal, póngase en contacto con nosotros. Si descubrimos que hemos recopilado información personal de un niño menor de 13 años sin la verificación del consentimiento de los padres, tomaremos medidas para eliminar esa información.
+
+**6. Cambios a esta Política de Privacidad**
+
+Podemos actualizar nuestra Política de Privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página.
+
+Se le aconseja que revise esta Política de Privacidad periódicamente para cualquier cambio. Los cambios a esta Política de Privacidad son efectivos cuando se publican en esta página.
+
+**7. Contáctenos**
+
+Si tiene alguna pregunta sobre esta Política de Privacidad, por favor contáctenos en: [Tu Email de Contacto].
