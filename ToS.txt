@@ -1,0 +1,53 @@
+Términos y Condiciones de Servicio
+
+Última actualización: [Fecha]
+
+POR FAVOR, LEA ESTOS TÉRMINOS Y CONDICIONES DE SERVICIO CUIDADOSAMENTE ANTES DE USAR NUESTRA APLICACIÓN.
+
+1. Aceptación de los Términos
+
+Al acceder o utilizar [Nombre de tu Aplicación] (en adelante, "el Servicio"), usted acepta estar sujeto a estos Términos y Condiciones de Servicio ("Términos"). Si no está de acuerdo con alguna parte de los términos, no podrá acceder al Servicio.
+
+Este Servicio es un cliente de terceros para la plataforma TikTok y no está afiliado, patrocinado ni respaldado por TikTok Inc.
+
+2. Descripción del Servicio
+
+El Servicio proporciona una interfaz para visualizar perfiles y videos públicos de la plataforma TikTok. El acceso a los datos de TikTok se realiza a través de su API oficial y está sujeto a los propios Términos de Servicio de TikTok.
+
+3. Conducta del Usuario
+
+Usted se compromete a no utilizar el Servicio para:
+- Realizar cualquier actividad ilegal o que viole los derechos de terceros.
+- Infringir los Términos de Servicio de TikTok.
+- Intentar acceder a datos no públicos o realizar ingeniería inversa de nuestra aplicación o de la API de TikTok.
+- Distribuir spam, virus o cualquier otro código malicioso.
+
+4. Propiedad Intelectual
+
+Todo el contenido disponible en TikTok, incluyendo videos, nombres de usuario, y avatares, es propiedad de sus respectivos creadores y de TikTok. Nuestro Servicio solo facilita la visualización de este contenido.
+
+El software, el diseño, el texto y los gráficos de nuestra aplicación son propiedad de [Nombre de tu Empresa/Desarrollador] y están protegidos por las leyes de derechos de autor.
+
+5. Descargo de Responsabilidad de Garantías
+
+El Servicio se proporciona "TAL CUAL" y "SEGÚN DISPONIBILIDAD". No garantizamos que el servicio será ininterrumpido, seguro o libre de errores. El uso del Servicio es bajo su propio riesgo. No nos hacemos responsables de la exactitud, fiabilidad o disponibilidad del contenido obtenido a través de la API de TikTok.
+
+6. Limitación de Responsabilidad
+
+En la máxima medida permitida por la ley aplicable, en ningún caso [Nombre de tu Empresa/Desarrollador] será responsable de ningún daño indirecto, incidental, especial, consecuente o punitivo, incluyendo, entre otros, la pérdida de beneficios, datos o buena voluntad, que resulte de (i) su acceso o uso o incapacidad para acceder o usar el Servicio; (ii) cualquier contenido obtenido del Servicio.
+
+7. Terminación
+
+Podemos terminar o suspender su acceso a nuestro Servicio de inmediato, sin previo aviso ni responsabilidad, por cualquier motivo, incluido, entre otros, si usted incumple los Términos.
+
+8. Cambios en los Términos
+
+Nos reservamos el derecho, a nuestra sola discreción, de modificar o reemplazar estos Términos en cualquier momento. Le notificaremos de cualquier cambio publicando los nuevos Términos en esta página.
+
+9. Ley Aplicable
+
+Estos Términos se regirán e interpretarán de acuerdo con las leyes de [Tu País/Estado], sin tener en cuenta sus disposiciones sobre conflicto de leyes.
+
+10. Contacto
+
+Si tiene alguna pregunta sobre estos Términos, por favor contáctenos en [Tu Email de Contacto].
